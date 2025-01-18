@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=InputData
+Comment=Aplikasi kasir untuk manajemen transaksi penjualan
+Exec=/usr/bin/InputData
+Icon=inputdata
+Terminal=false
+Type=Application
+Categories=Utility;Application;
