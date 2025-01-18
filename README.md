@@ -28,7 +28,7 @@ Aplikasi Kasir ini dirancang untuk membantu pengelolaan transaksi pada toko keci
 ## Instalasi
 1. **Kloning Repository**:
    ```bash
-   git clone https://github.com/fajarjulyana/CashierApp-InputData.git
+   git clone https://github.com/fajarjulyana/CashierApp.git
    ```
 2. **Persiapkan Lingkungan**:
    - Install **wxWidgets** sesuai panduan resmi.
